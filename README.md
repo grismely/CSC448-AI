@@ -1,1 +1,1 @@
-# CSC448-AI
+# CSC448-Artificial Intelligence 
